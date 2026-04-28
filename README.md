@@ -39,7 +39,7 @@ Focus is on understanding what happens inside the solver — not just running si
 
 ### Contact
 
-[i.dofek@seznam.cz](mailto:i.dofek@seznam.cz) · [github.com/navidofek-cmyk](https://github.com/navidofek-cmyk)
+[github.com/navidofek-cmyk](https://github.com/navidofek-cmyk)
 
 ---
 
@@ -80,4 +80,4 @@ Důraz na pochopení toho, co se děje uvnitř solveru — ne pouze spouštění
 
 ### Kontakt
 
-[i.dofek@seznam.cz](mailto:i.dofek@seznam.cz) · [github.com/navidofek-cmyk](https://github.com/navidofek-cmyk)
+[github.com/navidofek-cmyk](https://github.com/navidofek-cmyk)
