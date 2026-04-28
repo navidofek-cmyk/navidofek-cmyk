@@ -4,7 +4,7 @@
 
 ## English
 
-# CFD Developer — Numerical Solvers & Engineering Automation
+# Process Engineering | CFD | Python Automation
 
 Hands-on experience implementing CFD solvers for incompressible and compressible flow from the ground up. Work spans finite volume methods, shock-capturing schemes, pressure–velocity coupling, and Python-based workflow automation.
 
@@ -45,7 +45,7 @@ Focus is on understanding what happens inside the solver — not just running si
 
 ## Čeština
 
-# CFD vývojář — numerické solvery a automatizace inženýrských workflow
+# Procesní inženýrství | CFD | Python automatizace
 
 Praktické zkušenosti s implementací CFD solverů pro nestlačitelné i stlačitelné proudění od základů. Práce zahrnuje metody konečných objemů, schémata pro zachycení rázových vln, vazbu tlak–rychlost a automatizaci workflow v Pythonu.
 
